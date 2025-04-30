@@ -1,16 +1,16 @@
-## Hi there 👋
+# Tên Dự Án
+Mô tả ngắn gọn về dự án của bạn.
 
-<!--
-**hoairai/hoairai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Công nghệ sử dụng
+- MySQL
+- PostgreSQL
+- Node.js
+- Express.js
+- Docker
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Thống kê GitHub
+- **Total Stars Earned**: 0
+- **Total Commits (2025)**: 152
+- **Total PRs**: 117
+- **Total Issues**: 0
+- **Contributed to (last year)**: 3
