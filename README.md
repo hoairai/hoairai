@@ -1,5 +1,3 @@
-# Tên Dự Án
-Mô tả ngắn gọn về dự án của bạn.
 
 ## Công nghệ sử dụng
 - MySQL
